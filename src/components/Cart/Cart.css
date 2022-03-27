@@ -1,0 +1,19 @@
+.cart{
+ position: sticky; 
+ top: 0;  
+ padding: 30px 20px;
+}
+.choice{
+    width: 50%;
+    border-radius: 8px 8px 8px 8px; 
+}
+.choice:hover{
+    background-color: orange;
+}
+.delete{
+    width: 50%;
+    border-radius: 8px 8px 8px 8px; 
+}
+.delete:hover{
+background-color:orange;
+}
